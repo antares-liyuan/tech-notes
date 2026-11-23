@@ -9,7 +9,7 @@
 | 2026-11-23 | [从 SD WebUI 到 ComfyUI：节点式 AI 绘图工具是怎么走红的](articles/2026-11-23-comfyui-history.md) | 很多人用 AI 绘图时，会把 Stable Diffusion、SD WebUI 和 Com… |
 | 2026-11-23 | [Codex 直接用还是接进智能体框架？两种用法的区别](articles/2026-11-23-codex-scenarios.md) | 用 Codex 写代码，常见的有两种方式：一种是在电脑上直接用，另一种是接进 Hermes … |
 | 2026-11-23 | [散户用多智能体 AI 能赢过机构吗？一次冷静的拆解](articles/2026-11-23-retail-ai-vs-institutions.md) | 最近常有人问：既然开源社区已经有人用多个 AI 智能体模拟一家交易公司的分工，个人投资者是不… |
-| 2026-11-23 | [DeepSeek Harness（DSH）分析：原理、第三方模型支持，与 Codex / Claude Code / Hermes Agent 对比](articles/2026-11-23-deepseek-harness-analysis.md) | 运行方式： |
+| 2026-11-23 | [DeepSeek Harness（DSH）分析：原理、第三方模型支持，与 Codex / Claude Code / Hermes Agent 对比](articles/2026-11-23-deepseek-harness-analysis.md) | DeepSeek 开源的「一切皆插件」智能体框架；能接第三方模型，用官方 API 时默认上传会话日志 |
 | 2026-11-22 | [微信「做个小工具」安装包观察：它是怎么让一句话变成小程序的](articles/2026-11-22-wechat-minitool-teardown.md) | 微信开发者工具定制版 + opencode 改造的 AI 编程助手，产物是小程序 + 云后台 |
 
 ## 写作原则

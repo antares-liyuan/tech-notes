@@ -4,6 +4,9 @@
 
 | 日期 | 标题 | 一句话 |
 |---|---|---|
+| 2026-11-26 | [股票研究 AI 盲测集：9 类陷阱题](articles/2026-11-26-stock-research-ai-blind-test.md) | 考 AI 做个股研究时会不会编数据、认错标的、用错估值指标；只给选题条件，不点名公司 |
+| 2026-11-26 | [智能体框架（Harness）盲测集：10 道“考框架、不考模型”的题](articles/2026-11-26-harness-blind-test.md) | 配合 11-23 那篇评判维度使用的实测题，附评分模板 |
+| 2026-11-26 | [本地 PC 操作智能体盲测集：五个维度 11 道题，外加 2 道安全红线](articles/2026-11-26-pc-agent-blind-test.md) | 代码、文件、GUI、浏览器、长链路五维实测，附评分模板 |
 | 2026-11-23 | [怎么比较 AI 智能体框架（harness）的强弱](articles/2026-11-23-harness-benchmark.md) | 同一个智能体框架（harness）换一个底层模型，表现可能差很多。所以框架的“强弱”要在控制… |
 | 2026-11-23 | [一次理清 Model、Harness、Agent、Skill、MCP 是什么关系](articles/2026-11-23-skill-agent-mcp-harness.md) | 用 AI 工具时，Model、Harness、Agent、Skill、MCP（再加上 Too… |
 | 2026-11-23 | [从 SD WebUI 到 ComfyUI：节点式 AI 绘图工具是怎么走红的](articles/2026-11-23-comfyui-history.md) | 很多人用 AI 绘图时，会把 Stable Diffusion、SD WebUI 和 Com… |

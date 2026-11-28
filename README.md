@@ -27,7 +27,7 @@
 
 我们的主业是「历元多因子研究系统」（Antares）：自研的量化 × 基本面研究框架，按需私有化部署，只做研究工具、不提供投资信号。
 
-官网：[stock888.app](https://stock888.app) · 投研方法文章见 [research-notes](https://github.com/antares-liyuan/research-notes)
+官网：[www.stock888.app](https://www.stock888.app) · 投研方法文章见 [research-notes](https://github.com/antares-liyuan/research-notes)
 
 ## 许可
 

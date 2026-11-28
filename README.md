@@ -25,9 +25,7 @@
 
 ## 关于历元
 
-我们也在做自己的小程序：**「历元智能投研」**，按公司查看公告、新闻、事件时间线和历史行情，港股新股有招股书速读。微信搜索「历元智能投研」，或扫码打开：
-
-<img src="assets/miniapp-qrcode.jpg" width="160" alt="历元智能投研小程序码">
+我们的主业是「历元多因子研究系统」（Antares）：自研的量化 × 基本面研究框架，按需私有化部署，只做研究工具、不提供投资信号。
 
 官网：[stock888.app](https://stock888.app) · 投研方法文章见 [research-notes](https://github.com/antares-liyuan/research-notes)
 
